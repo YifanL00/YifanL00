@@ -1,0 +1,76 @@
+# Galaxy Profile Configuration for YifanL00
+
+username: YifanL00
+
+profile:
+  name: "LYF"
+  tagline: "AI Agent Builder & Data Engineering Explorer"
+  company: ""
+  location: ""
+  bio: |
+    Building practical tools around AI agents, data systems, and automation.
+    Turning useful ideas into local-first assistants, browser tools, and data products.
+  philosophy: '"Build small. Learn fast. Ship useful things."'
+
+social: {}
+
+galaxy_arms:
+  - name: "AI Agents"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "AgentScope"
+      - "MCP"
+      - "OpenAI"
+  - name: "Data Engineering"
+    color: "dendrite_violet"
+    items:
+      - "Spark"
+      - "Delta Lake"
+      - "Docker"
+      - "PostgreSQL"
+  - name: "Web & Automation"
+    color: "axon_amber"
+    items:
+      - "TypeScript"
+      - "React"
+      - "Cloudflare"
+      - "Playwright"
+
+projects:
+  - repo: "YifanL00/CodexPet"
+    arm: 0
+    description: "Cross-platform Codex v2 pet pack with Linux and Windows desktop companions."
+  - repo: "YifanL00/spark-lakehouse"
+    arm: 1
+    description: "Docker Compose lakehouse stack powered by Spark, Delta Lake, MinIO, and Kyuubi."
+  - repo: "YifanL00/x-video-saver"
+    arm: 2
+    description: "Mobile-first PWA for saving public X videos through the native iOS share sheet."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Makefile"
+  max_display: 8
+

@@ -1,102 +1,79 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="850" alt="Yifan L. — AI agents, data engineering and automation" />
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <a href="https://github.com/YifanL00?tab=followers">
-    <img src="https://img.shields.io/github/followers/YifanL00?label=Followers&style=for-the-badge&color=22d3ee&labelColor=0b1220" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/YifanL00?tab=repositories">
-    <img src="https://img.shields.io/badge/Open_Source-Builder-a78bfa?style=for-the-badge&labelColor=0b1220" alt="Open source builder" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YifanL00&style=for-the-badge&color=22d3ee&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="./assets/tech-stack.svg" width="850" alt="Technology stack" />
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
-
 <details>
-<summary><strong>More about me / 关于我</strong></summary>
+<summary><strong>More about me</strong></summary>
 
-<br />
+<br/>
 
-I build practical tools around AI agents, data infrastructure and automation — from local-first assistants and browser extensions to data lakehouses and polished web products.
+Building practical tools around AI agents, data systems, and automation. Turning useful ideas into local-first assistants, browser tools, and data products.
 
-我喜欢把 AI Agent、数据工程与自动化真正做成可用的产品：从本地智能助手、浏览器扩展，到数据湖与移动端 Web 工具。
+**Focus Areas**
+- 🤖 **AI Agents**: AgentScope, MCP, local-first assistants, and tool-using workflows
+- 🧱 **Data Engineering**: Spark, Delta Lake, MinIO, PostgreSQL, and Docker
+- 🕸️ **Web Products**: TypeScript, React, Next.js, and Cloudflare
+- ⚙️ **Automation**: Browser extensions, Playwright, crawlers, and practical RPA
 
-- 🤖 **AI Agents** — AgentScope, MCP, local-first assistants and agent workflows
-- 🧱 **Data Engineering** — Spark, Delta Lake, MinIO, PostgreSQL and Docker
-- 🕸️ **Web & Automation** — TypeScript, React, Next.js, Cloudflare and browser automation
-- 🧪 **Currently exploring** — smaller agents, reliable tool use and useful human-in-the-loop systems
+**Contact**
+- 🐙 GitHub: [github.com/YifanL00](https://github.com/YifanL00)
 
 </details>
 
-<br />
+<br/>
 
-<h2 align="center">Selected Projects</h2>
+<h2 align="center">Weekly Coding Activity</h2>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/YifanL00/CodexPet">🐾 CodexPet</a></h3>
-      <p>A cross-platform Codex v2 pet pack with independent Linux and Windows desktop companions.</p>
-      <p><code>Python</code> <code>PowerShell</code> <code>GTK</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/YifanL00/x-video-saver">📱 X Video Saver</a></h3>
-      <p>A mobile-first PWA for saving public X videos on iPhone through the native share sheet.</p>
-      <p><code>TypeScript</code> <code>React</code> <code>Next.js</code> <code>Cloudflare</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/YifanL00/job-claw">🦞 JobClaw</a></h3>
-      <p>An AI-powered job-search workspace for resume analysis, job matching and assisted outreach.</p>
-      <p><code>AI</code> <code>Chrome Extension</code> <code>Automation</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/YifanL00/spark-lakehouse">🌊 Spark Lakehouse</a></h3>
-      <p>A Docker Compose lakehouse stack with Spark, Delta Lake, MinIO, Hive and Kyuubi.</p>
-      <p><code>Spark</code> <code>Delta Lake</code> <code>Docker</code> <code>SQL</code></p>
-    </td>
-  </tr>
-</table>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<br />
+<br/>
 
-<h2 align="center">GitHub Telemetry</h2>
-
-<div align="center">
-  <img src="./assets/telemetry.svg" width="850" alt="Build telemetry" />
-</div>
-
-<br />
-
-<h2 align="center">Contribution Orbit</h2>
+<h2 align="center">Contribution Snake</h2>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YifanL00/YifanL00/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YifanL00/YifanL00/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/YifanL00/YifanL00/output/github-contribution-grid-snake.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YifanL00/YifanL00/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YifanL00/YifanL00/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="contribution snake"
+      src="https://raw.githubusercontent.com/YifanL00/YifanL00/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <a href="https://github.com/YifanL00">
-    <img src="https://img.shields.io/badge/-Follow_on_GitHub-0b1220?style=for-the-badge&logo=github&logoColor=ffffff" alt="Follow YifanL00 on GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-080c14?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
+  </a>
+  <a href="https://github.com/YifanL00?tab=repositories">
+    <img src="https://img.shields.io/badge/-Repositories-080c14?style=for-the-badge&logo=github&logoColor=ffffff" alt="Repositories"/>
   </a>
 </div>
 
-<br />
+<br/>
 
 <p align="center">
-  <samp>Build small. Learn fast. Ship useful things.</samp>
+  <samp>Thanks for visiting — let's build useful things.</samp>
 </p>
+
+<!-- Profile SVGs auto-generated by galaxy-profile -->
