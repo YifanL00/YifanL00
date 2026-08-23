@@ -72,16 +72,7 @@ I build practical tools around AI agents, data infrastructure and automation —
 <h2 align="center">GitHub Telemetry</h2>
 
 <div align="center">
-  <picture>
-    <source height="170" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YifanL00&show_icons=true&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&ring_color=22d3ee" />
-    <source height="170" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=YifanL00&show_icons=true&hide_border=true&bg_color=f6f8fa&title_color=087ea4&icon_color=8250df&text_color=1f2328&ring_color=087ea4" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=YifanL00&show_icons=true&hide_border=true&bg_color=0b1220&title_color=22d3ee&icon_color=a78bfa&text_color=cbd5e1&ring_color=22d3ee" alt="YifanL00 GitHub stats" />
-  </picture>
-  <picture>
-    <source height="170" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YifanL00&layout=compact&hide_border=true&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1" />
-    <source height="170" media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YifanL00&layout=compact&hide_border=true&bg_color=f6f8fa&title_color=087ea4&text_color=1f2328" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YifanL00&layout=compact&hide_border=true&bg_color=0b1220&title_color=22d3ee&text_color=cbd5e1" alt="Most used languages" />
-  </picture>
+  <img src="./assets/telemetry.svg" width="850" alt="Build telemetry" />
 </div>
 
 <br />
@@ -109,4 +100,3 @@ I build practical tools around AI agents, data infrastructure and automation —
 <p align="center">
   <samp>Build small. Learn fast. Ship useful things.</samp>
 </p>
-
